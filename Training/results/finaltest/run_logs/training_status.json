@@ -1,0 +1,38 @@
+{
+    "TruckPathfinding": {
+        "checkpoints": [
+            {
+                "steps": 499977,
+                "file_path": "results\\finaltest\\TruckPathfinding\\TruckPathfinding-499977.onnx",
+                "reward": 1.133932416216174,
+                "creation_time": 1792437650.928924,
+                "auxillary_file_paths": [
+                    "results\\finaltest\\TruckPathfinding\\TruckPathfinding-499977.pt"
+                ]
+            },
+            {
+                "steps": 500031,
+                "file_path": "results\\finaltest\\TruckPathfinding\\TruckPathfinding-500031.onnx",
+                "reward": 1.085173849735616,
+                "creation_time": 1792437650.963983,
+                "auxillary_file_paths": [
+                    "results\\finaltest\\TruckPathfinding\\TruckPathfinding-500031.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500031,
+            "file_path": "results\\finaltest\\TruckPathfinding.onnx",
+            "reward": 1.085173849735616,
+            "creation_time": 1792437650.963983,
+            "auxillary_file_paths": [
+                "results\\finaltest\\TruckPathfinding\\TruckPathfinding-500031.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}
